@@ -2,10 +2,9 @@ body{
 	font-family: arial;
 }
 
-
-.jumbotron{
-	background-image: url(images/1112261.jpg);
-	background-size: cover;
+.carousel-inner{
+	height: 600px;
+	filter: brightness(50%);
 }
 
 .rounded{
