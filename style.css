@@ -1,0 +1,92 @@
+body{
+	font-family: arial;
+}
+
+
+.jumbotron{
+	background-image: url(images/1112261.jpg);
+	background-size: cover;
+}
+
+.rounded{
+	width: 100%;
+	height: auto;
+	background-image: cover;
+}
+
+.text{
+	font-family: "Open sans";
+    line-height: 25px;
+    font-weight: normal;
+    font-style: normal;
+    color: #7e8082;
+    font-size: 14px;
+    text-align: justify-all;
+}
+
+.about{
+	font-family: "Open Sans"
+	color: #4b4e53;
+	font-size: 35px;
+	border-bottom: 2px solid gray;
+}
+
+.first-tittle{
+	padding: 22px 25px 24px 25px;
+	font-family: "Open Sans"
+	font-size: 30px;
+	line-height: 36px;
+	color: #4b4e53;
+    border-left: #4b4e53 2px solid;
+    text-transform: uppercase;
+}
+
+.card{
+	/*box-shadow: 1px 1px 15px black;*/
+	border-style: none;
+}
+
+.card-footer{
+	background-color: white;
+}
+
+.footer{
+	width:100%; 
+	background-color:#263238; 
+	min-height:250px; 
+	/*padding:10px 0px 25px 0px ;*/
+}
+
+.row-footer{
+	padding: 50px 0px 0px 50px;
+}
+
+.find-us{
+	font-family: "Open Sans"
+	font-size:45px;
+	margin-bottom: 20px;
+	color:#FFF
+}
+
+.text{
+	color: #aaa7a7;
+}
+
+.find-us, ul{
+	list-style-type:none ; 
+	font-size:14px; 
+	padding:0px 0px 10px 0px ;
+}
+
+.find-us, li{
+	padding-bottom: 5px;
+}
+
+.find-us, li, a{
+	color: #CCC;
+}
+
+.find-us, li, a:hover{
+	color: #fff;
+	text-decoration: none;
+}
